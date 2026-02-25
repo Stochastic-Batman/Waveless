@@ -53,3 +53,9 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Stochastic-Batman's additions
+data/
+*.wav
+*.wvl
+WaveLess

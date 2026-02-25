@@ -19,8 +19,8 @@ typedef struct {
 // Each surviving bin: its index + packed re/im as floats
 typedef struct {
     uint16_t bin_index;
-    float    re;
-    float    im;
+    float re;
+    float im;
 } WvlBin;
 
 // One RLE-compressed frame
